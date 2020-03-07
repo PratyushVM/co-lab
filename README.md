@@ -1,2 +1,2 @@
 # co-lab
-Code written as part of Computer Organization Course, 2020.
+Code written as part of Computer Organization Course @IIITDM, 2020.
