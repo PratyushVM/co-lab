@@ -1,0 +1,3 @@
+Sample file
+To verify if program that reads a file is working
+It works!
